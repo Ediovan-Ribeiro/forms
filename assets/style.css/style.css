@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vh;
+    font-family: 'Lato', sans-serif;
+}
+
+.main {
+    text-align: center;
+    margin: 1.6rem;
+}
+
+.tabela-cadastro {
+
+    border: 1px solid #00000049;
+    padding: 30px;
+    font-size: 10px;
+}
+
+
+.container-principal {
+    width: 100%;
+    margin-top: 1.6em;
+    align-items: auto;
+    display: flex;
+    max-width: 500px;
+}
+
+.container-formulario {
+    padding: 5px
+}
+
+.botao-sub {
+    margin-top: 10px;
+    display: block;
+
+}
